@@ -1,15 +1,18 @@
 import React from "react";
 import ReactDOM from "react-dom";
-// import css from "./style.css"
-
+import "./style.css"
+import DP from "./DP.jpg"
 function Header() {
   return (
     <div>
       <header>
-        <h1> CV curriculum vitae</h1>
+        <img src={DP} width={150} alt="this is DP of CV" />
+        <div>
+        <h1> CV curriculum vitae</h1> 
         <h2>Muhammad Khubaib</h2>
-        <h3>ADDRESS: F.B AREA KARACHI</h3>
-        <h3>CONTACT NO:03116554647</h3>
+        {/* <h3>ADDRESS: F.B AREA KARACHI</h3>
+        <h3>CONTACT NO:03116554647</h3> */}
+        </div>
       </header>
 
       <hr />

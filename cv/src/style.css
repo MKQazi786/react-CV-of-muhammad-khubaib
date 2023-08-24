@@ -1,0 +1,19 @@
+header {
+    display: flex;
+    width:auto;
+    align-items: center;
+    margin: 0rem;
+    font-size: larger;
+    padding: 0.5rem;
+    min-width:680px;
+}
+
+img{
+    margin-right:6rem;
+    margin-left:2rem;
+    border-radius: 6rem;
+}
+
+header > div {
+    text-align: center;
+}
