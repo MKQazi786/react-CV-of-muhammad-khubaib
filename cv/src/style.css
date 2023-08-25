@@ -4,14 +4,11 @@ header {
     align-items: center;
     font-size: larger;
     padding: 0.5rem;
-    min-width:650px;
-    background-color:rgb(248, 128, 128);
-    border-radius: 2rem;
-    box-shadow: 0px 0px 10px;
-}
-
-
-body {
+    min-width:710px;
+    background-color: #1c3244;
+    border-radius: 10px 10px 0px 0px;
+    color: white;
+    box-shadow: 0px 0px 10px black;
 }
 
 img{
@@ -22,12 +19,57 @@ img{
 }
 
 header > div {
-    font-style: italic;
-    text-shadow: 1px 2px 2px;
+    text-shadow: 1px 2px 2px black;
     text-align: center;
+    margin-left: 4rem;
 }
 
-a {
-    /* text-decoration: none; */
-    color: black;
+header div a {
+    text-decoration-color:yellow ;
+    color: yellow;
+    /* color: white; */
+}
+
+aside{
+    text-shadow: 1px 2px 2px black;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    background-color: #1c3244;
+    padding: 1rem;
+    width: 24%;
+    border-radius:0px 0px 0px 10px;
+    min-width:340px;
+    margin: 0rem;
+}
+
+body{
+    font-style: italic;
+    box-shadow: 0px 0px 10px;
+    font-family: 'Lobster', cursive;
+    margin:0.3rem;
+}
+
+aside > a{
+    display: flex;
+    flex-direction: column;
+    font-size: larger;
+    color:yellow;
+    text-shadow: 1px 2px 2px black;
+}
+
+.flex{
+    display: flex;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    background-color: #ebebeb;
+    width: 100%;
+    border-radius:0px 0px 10px 0px;
+    min-width:370px;
+    font-size: larger;
+    text-shadow: 1px 2px 2px white;
 }
