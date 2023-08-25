@@ -2,18 +2,32 @@ header {
     display: flex;
     width:auto;
     align-items: center;
-    margin: 0rem;
     font-size: larger;
     padding: 0.5rem;
-    min-width:680px;
+    min-width:650px;
+    background-color:rgb(248, 128, 128);
+    border-radius: 2rem;
+    box-shadow: 0px 0px 10px;
+}
+
+
+body {
 }
 
 img{
     margin-right:6rem;
     margin-left:2rem;
-    border-radius: 6rem;
+    border-radius: 43%;
+    box-shadow: 0px 0px 10px;
 }
 
 header > div {
+    font-style: italic;
+    text-shadow: 1px 2px 2px;
     text-align: center;
+}
+
+a {
+    /* text-decoration: none; */
+    color: black;
 }
