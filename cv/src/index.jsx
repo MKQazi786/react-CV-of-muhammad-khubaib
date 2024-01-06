@@ -86,7 +86,7 @@ function Header() {
               <ul>
                 <li>Matriculation From Karachi Board Education </li>
                 <li>Intermediate From Karachi Board Education </li>
-                <li>Student of SMIT web and app Development</li>
+                <li>Web and App Development from SMIT karachi </li>
               </ul>
 
               <hr />
