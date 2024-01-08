@@ -2,11 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./style.css"
 import DP from "./DP.jpg"
-import { Github } from 'react-bootstrap-icons';
-import { Linkedin } from 'react-bootstrap-icons';
-import { Facebook } from 'react-bootstrap-icons';
-import { Youtube } from 'react-bootstrap-icons';
-
+import { Github ,Linkedin,Facebook,Youtube  } from 'react-bootstrap-icons';
 function Header() {
   return (
         <div>
@@ -86,7 +82,7 @@ function Header() {
               <ul>
                 <li>Matriculation From Karachi Board Education </li>
                 <li>Intermediate From Karachi Board Education </li>
-                <li>Student of SMIT web and app Development</li>
+                <li>Web and App Development From SMIT Karachi</li>
               </ul>
 
               <hr />
