@@ -34,7 +34,7 @@ aside{
     flex-direction: column;
     background-color:#1c3142;
     padding: 1rem;
-    width: 24%;
+    width: 25%;
     border-radius:0px 0px 0px 10px;
     min-width:340px;
     margin: 0rem;
@@ -51,7 +51,7 @@ body{
 aside > a{
     display: flex;
     flex-direction: column;
-    font-size: larger;
+    font-size:16.4px;
     color:yellow;
     text-shadow: 1px 2px 2px black;
 }
@@ -64,7 +64,8 @@ main{
     display: flex;
     flex-direction: column;
     padding: 1rem;
-    background-color: silver;
+    padding-right: 0rem;
+    background-color:white;
     width: 100%;
     border-radius:0px 0px 10px 0px;
     min-width:370px;
