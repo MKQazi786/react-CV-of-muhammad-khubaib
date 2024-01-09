@@ -11,7 +11,7 @@ function Header() {
         <div>
           <h1> CV curriculum vitae</h1>
           <h2>Muhammad Khubaib</h2>
-          <h3><a href="https://goo.gl/maps/JmgvPsccbJvkdUue6">Address: FB area karachi</a></h3>
+          <h3>Address: <a href="https://goo.gl/maps/JmgvPsccbJvkdUue6">FB area karachi</a></h3>
           <h3>CONTACT NO: <a href="tel:03116554647"> 03116554647 </a></h3>
         </div>
       </header>
