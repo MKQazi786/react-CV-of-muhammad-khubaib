@@ -94,7 +94,7 @@ function Header() {
               <h2>SKILLS:</h2>
 
               <ul>
-                <li>HTML5 (Hyper Text Multiple Language 5)</li>
+                <li>HTML5 (Hyper Text Markup Language 5)</li>
                 <li>CSS3 (Cascading Style Sheet 3)</li>
                 <li>Bootstrap</li>
                 <li>Javascript es6 (ECMA script 6)</li>
