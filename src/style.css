@@ -44,14 +44,14 @@ aside{
 body{
     text-shadow: 1px 2px 2px black;
     box-shadow: 0px 0px 10px;
-    font-family:  'Poppins','Roboto','ubanto','cursive';
+    font-family:  'Poppins',Roboto,ubanto,cursive;
     margin:0.3rem;
 }
 
 aside > a{
     display: flex;
     flex-direction: column;
-    font-size:16.4px;
+    font-size:1.25rem;
     color:yellow;
     text-shadow: 1px 2px 2px black;
 }
