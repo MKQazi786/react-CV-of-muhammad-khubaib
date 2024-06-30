@@ -62,9 +62,10 @@ function Header() {
             <h2>EXPERIENCE:</h2>
 
             <ul>
+              <li>1.5 year's experience as a frontend developer</li>
               <li>01 month remote internship as a Web Developer at CodSoft </li>
               <li>01 month remote internship at Grow Intern</li>
-              <li>01 year experience as a frontend developer</li>
+              <li>06 month onsite   internship at Mitsol.Tech</li>
               <li>1.5 year's Experience as a Merchandiser in Mondelez pvt ltd</li>
               <li>04 year's Experience as a salesman </li>
               <li>01 year Experience as a Home Teacher</li>
@@ -105,6 +106,7 @@ function Header() {
               <li>Express</li>
               <li>React.js</li>
               <li>Node.js</li>
+              <li>CMS (Wordpress, Elementor and Squarespace)</li>
             </ul>
 
           </div>
